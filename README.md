@@ -1,7 +1,7 @@
 # Usage
 python instagram.py  [Username]  [wordlist]
 
-`python instagram.py username103 pass.lst`
+`python instagram.py username password.txt`
 
 ## Requirements
 [mechanize](https://pypi.python.org/pypi/mechanize/) install with: `pip install mechanize`
