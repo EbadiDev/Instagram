@@ -160,7 +160,21 @@ class Instagram(TorManager,Browser):
 
   subprocess.call(['clear'])
   print ''
-  print '  +------ Instagram Tool By Ali_Ebadi ------+'
+  print '.-------------------------------------------------------.'
+  print '| |\___/|       ___           _                         |'
+  print '| )     (      |_ _|_ __  ___| |_ __ _                  |'
+  print '|=\     /=      | ||  _ \/ __| __/ _  |                '
+  print '|  )===(        | || | | \__ \ || (_| |                 |'
+  print '| /     \      |___|_| |_|___/\__\__,_|                 |'
+  print '| |     |                                               |'
+  print '|/       \           _     ____  _   _ _____ _____      |'
+  print '|\       /          | |__ |  _ \| | | |_   _| ____|     |'
+  print '| \__  _/           |_ _|_ __  ___| |_ __ _             |'
+  print '|   ( (             | |_) |  _ <| |_| | | | | |___      |'
+  print '|    ) )            |_.__/|_| \_\_____/ |_| |_____|     |'
+  print '|   (_(                                                 |'
+  print '--------------------------------------------------------'
+  print '  +------ Instagram Cracker Tool By Ali_Ebadi ------+'
   print '  [-] Username: {}{}{}'.format(creds,self.username.title(),self.n)
   print '  [-] Password: {}{}{}'.format(creds,pwd,self.n)
   print '  [-] Proxy IP: {}{}{}'.format(self.b,ip,self.n)
