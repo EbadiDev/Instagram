@@ -1,4 +1,4 @@
-![Screen Shot](https://www.photobox.co.uk/my/photo/full?photo_id=500422548087)
+![Screen Shot](http://www.axgig.com/images/72289486283867872103.png)
 # Usage
 python instagram.py  [Username]  [wordlist]
 
