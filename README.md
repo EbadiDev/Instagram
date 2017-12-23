@@ -6,7 +6,7 @@ python instagram.py  [Username]  [wordlist]
 
 for android you must install [Kali Linux NetHunter](https://www.kali.org/kali-linux-nethunter/)
 
-![Screen Shot](https://www.kali.org/wp-content/uploads/2014/08/nexus-nethunter-devices-2.png)
+![Screen Shot](https://www.kali.org/wp-content/uploads/2013/09/kali-android-deploy-798x284.png)
 
 ## Requirements
 [mechanize](https://pypi.python.org/pypi/mechanize/) install with: `pip install mechanize`
