@@ -1,9 +1,6 @@
-# Date: 08/06/2017
-# Distro: Kali Linux
+# Tested on: Kali , Windows 10 , Android
 # Author: Ali_Ebadi
 # Description: Bruteforce Instagram
-#
-#
 
 import os
 import time
