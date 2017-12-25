@@ -25,12 +25,12 @@ for android you must install [Kali Linux NetHunter](https://www.kali.org/kali-li
 - NOW IT'S WORKS ON ANDROID 
 ## [1.0.0] - [Unreleased] [Big Update]
 ### Comming soon 
--  it's will [wordlist] [passowrdlist] 
+-  it's will [wordlist] [passwordlist] 
 -  it's will be faster
 -  Bug fixes and improvements
 -  UI update
 -  auto verify bypass
--  optimized performances
+-  optimize performances
 -  optimize connect
 -  add more servers
 
