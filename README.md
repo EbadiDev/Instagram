@@ -23,6 +23,14 @@ for android you must install [Kali Linux NetHunter](https://www.kali.org/kali-li
 - NOW IT'S WORKS ON WINDOWS (TESTED ON WINDOWS 7 , 8 , 10)
 ## [0.0.3] - [Released]
 - NOW IT'S WORKS ON ANDROID 
-## [0.0.4] - [Unreleased]
+## [1.0.0] - [Unreleased] [Big Update]
 ### Comming soon 
-- (proof: it's will [wordlist] [passowrdlist] )
+-  it's will [wordlist] [passowrdlist] 
+-  it's will be faster
+-  Bug fixes and improvements
+-  UI update
+-  auto verify bypass
+-  optimized performances
+-  optimize connect
+-  add more servers
+
