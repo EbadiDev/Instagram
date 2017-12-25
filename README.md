@@ -15,14 +15,14 @@ for android you must install [Kali Linux NetHunter](https://www.kali.org/kali-li
 
 [Tor](https://www.torproject.org/docs/debian) install with: `sudo apt-get install tor`
 
-## ChangeLog
+## Changelog
 ## [0.0.1] - [Released]
-- REMOVE PROXY FROM SCRIPT 
-- ADD AUTO PROXY CHANGER (WITH tor proxy anonymous)
+- REMOVED PROXYLIST FROM SCRIPT 
+- ADDED AUTO PROXY CHANGER (WITH tor proxy anonymous)
 ## [0.0.2] - [Released]
-- NOW IT'S WORK ON WINDOWS (TESTED ON WINDOWS 7 , 8 , 10)
+- NOW IT'S WORKS ON WINDOWS (TESTED ON WINDOWS 7 , 8 , 10)
 ## [0.0.3] - [Released]
-- NOW IT'S WORK ON ANDROID 
+- NOW IT'S WORKS ON ANDROID 
 ## [0.0.4] - [Unreleased]
 ### Comming soon 
 - (proof: it's will [wordlist] [passowrdlist] )
