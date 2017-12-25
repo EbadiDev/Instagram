@@ -1,7 +1,8 @@
-# Tested on: Kali , Windows 10 , Android
+# Tested on: Kali , Windows 7,8,10 , Android
 # Author: Ali_Ebadi
+# Telegram: @EthicalRip
 # Description: Bruteforce Instagram
-#for android u must install kali app os
+# For android u must install kali app os
 import os
 import time
 import urllib
